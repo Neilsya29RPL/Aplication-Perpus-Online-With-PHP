@@ -26,3 +26,10 @@
 ![12  Ubah Siswa](https://user-images.githubusercontent.com/68727623/169640987-7fa9da8a-26c7-4a6c-9a2d-90e90a7ae9f4.png)
 ## List Kelas
 ![13  Kelas](https://user-images.githubusercontent.com/68727623/169640981-901f3b71-581b-440f-a0c6-eff34194479a.png)
+
+# Penjelasan Alur Aplikasi
+Berikut adalah aplikasi Perpus online. Dimana jika seorang siswa ingin meminjam buku, para petugas perpustakaan tidak kesulitan dalam mencatat data peminjaman.
+- Pertama-tama, jika ingin meminjam buku klik button pinjam pada list buku yang dipilih.
+- Lalu tampil detail buku yang mau dipinjam. Jika menghendaki batal, maka klik button batal.
+- Klik button pinjam lalu muncul halaman keranjang. Jika ingin menambah buku yang mau dipinjam maka kembali ke halaman list buku.
+- Klik button checkout lalu otomatis diarahkan ke halaman generate transaksi. Jika pengembalian buku melebihi batas tanggal yang telah ditentukan, maka diberlakukan denda. 
